@@ -1,0 +1,7 @@
+DESCRIPTION
+Its a simple symmetric key encryption, I am sure you will be able to solve it (what do you mean the key looks weird)
+
+Author : Revak Pandkar
+
+FLAG FORMAT:
+VishwaCTF{}
