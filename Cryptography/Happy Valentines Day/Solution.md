@@ -59,7 +59,7 @@ Files provided:
   ```
 3. Finally after running the code, we finally get the recovered image, which shows us the flag.
    
-   ![Recovered Png]('./Solution/recovered.png')
+   ![Recovered Png]('Solution/recovered.png')
 
 ## Flag
 VishwaCTF{h3ad3r5_f0r_w1nn3r5}
