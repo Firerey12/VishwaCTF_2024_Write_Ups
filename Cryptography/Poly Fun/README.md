@@ -155,7 +155,7 @@ Files Provided:
     
     ```
     
-    Initially looking at the program, it looked as if it was a complicated encryption using random numbers, but after analyzing the program, I found out that the only thing the transform() function does is it returns the argument you gave it. So looking at the encrypt function, all it was doing was using the equation described at the top of the code (4x<sup>2</sup> + 3x + 7) to get the encoded character code, which finally was returned as a string.
+    Initially looking at the program, it looked as if it was a complicated encryption using random numbers, but after analyzing the program, I found out that the only thing the encrypt() function was doing was using the equation described at the top of the code (4x<sup>2</sup> + 3x + 7) to get the encoded character code, which finally was returned as a string. The transform() function wasn't doing anything except returning the argument given to it despite the complicated looking code.
 
 2. To decode the key, I came up with a code which solved for x in that equation and returned the original key's character code.
 
