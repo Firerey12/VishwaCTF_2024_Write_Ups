@@ -18,7 +18,7 @@ Netcatting to the provided IP and Port provided us with plenty of information to
 
 ![Initial Netcat](Solution/initial_netcat.png)
 
-This gives us the version of libSSH being used. Googling this gives us a bunch of exploits we can run. I went with mgeeky's [code]([url](https://gist.github.com/mgeeky/a7271536b1d815acfb8060fd8b65bd5d#file-cve-2018-10993-py))
+This gives us the version of libSSH being used. Googling this gives us a bunch of exploits we can run. I went with mgeeky's [code](https://gist.github.com/mgeeky/a7271536b1d815acfb8060fd8b65bd5d#file-cve-2018-10993-py)
 The code was pretty long so I decided not to put it here, but you should check it out at the link provided.
 
 But basically running the code tells us how to use it.
