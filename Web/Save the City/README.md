@@ -23,7 +23,7 @@ The code was pretty long so I decided not to put it here, but you should check i
 
 But basically running the code tells us how to use it.
 
-![Exploit Arguments](Solution/exploit_argument.png)
+![Exploit Arguments](Solution/exploit_arguments.png)
 
 This tells us how to use the program. So all we have to do is give it the IP and port and give it a command to run. I decided to run `ls` to see what files were in the directory.
 
