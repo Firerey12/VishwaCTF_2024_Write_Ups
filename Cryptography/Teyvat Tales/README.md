@@ -16,7 +16,7 @@ Information Provided:
 # Solution
 This challenge was very intriguing to me as a Genshin Impact player, since it was based on the world of Genshin. Initially we are greeted with these texts which seem to be written in the languages that are part of Genshin Impact's world.
 
-![Greetings](Solution/greetings.png)
+![Greetings](Files/greetings.png)
 
 It seems we were supposed to translate these texts into English, but since this was a webpage with input fields, Curiosity got the bettter of me an I decided to check the source code, which allowed me to find the script that was running the validation for those fields.
 
