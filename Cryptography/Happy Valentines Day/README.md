@@ -35,7 +35,7 @@ Files provided:
 2. To reverse the process, first we had to gather the key, which was the first eight bytes of the original png. This was easy to get since the first eight bytes of any file is the identifier for it. So I just grabbed the first eight bytes of any random PNG I could find in my PC and modified the original code provided to us.
 
   [solution.py](Solution/solution.py):
-  ```
+  ```python
 
   from PIL import Image # Did not really need this
   from itertools import cycle
