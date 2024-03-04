@@ -16,7 +16,7 @@ Files provided:
 1. Looking at the files we were provided. We can see that enc.txt is the encrypted file and the source.txt is a Python code that was used to encrypt it.
    
   [source.txt](Files/source.txt):
-  ```
+  ```python
   from PIL import Image
   from itertools import cycle
   
