@@ -102,7 +102,7 @@ It seems that we have some coordinates and a clue which says the coordinates are
 It seems we just need to flip the pixels at those locations to another color so that they are visible. We can use Python to do this using the Pillow module.
 
 [solution.py](Solution/solution.py):
-```
+```python
 
 import numpy as np
 from PIL import Image
