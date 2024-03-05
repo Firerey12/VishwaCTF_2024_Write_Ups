@@ -69,7 +69,7 @@ Login Page:
 
 ![Login Page](Solution/login_page.png)
 
-Then considering, we were given what to do in the previous page, I decided to look at the source code again, and sure enough we got some instructions again.
+Then considering we were given what to do in the previous page, I decided to look at the source code again, and sure enough we got some instructions again.
 
 [auth-iit-user.php](Files/auth-iit-user.php):
 
