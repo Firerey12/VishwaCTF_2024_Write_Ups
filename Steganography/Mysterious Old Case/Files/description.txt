@@ -1,0 +1,7 @@
+DESCRIPTION
+You as a FBI Agent, are working on a old case involving a ransom of $200,000. After some digging you recovered an audio recording.
+
+Author : Abhishek Mallav
+
+FLAG FORMAT:
+VishwaCTF{}
