@@ -24,7 +24,7 @@ I decided once again to look at the source code, and found out what to do.
 
 [Error.php](Files/Error.php)
 
-```php
+```html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -73,7 +73,7 @@ Then considering, we were given what to do in the previous page, I decided to lo
 
 [auth-iit-user.php](Files/auth-iit-user.php):
 
-```php
+```html
 
 <!DOCTYPE html>
 <html>
