@@ -1,0 +1,7 @@
+DESCRIPTION
+IIT kharakpur is organizing a US Industrial Visit. The cost of the registration is $1000. But as always there is an opportunity for intelligent minds. Find the hidden login and Get the flag to get yourself a free US trip ticket.
+
+Author : Samarth Ghante & Kanishk Kumar
+
+FLAG FORMAT:
+VishwaCTF{}
