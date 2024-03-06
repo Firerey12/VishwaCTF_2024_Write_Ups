@@ -29,7 +29,7 @@ That finally gives us an image back
 
 ![We are valorant](Solution/we_are_valorant.jpg)
 
-The image doesn't really have anything much on it, it0 was just a regular image of some Valorant agents. Then I remembered we have a key ("Tenz"). So I tried to use steghide using "Tenz" as the password to extract any secret if any from the image. Turns out that was it, using that password, steghide gives us a file called not_a_secret.txt which gives us our final Flag.
+The image doesn't really have anything much on it, it was just a regular image of some Valorant agents. Then I remembered we have a key ("Tenz"). So I tried to use steghide using "Tenz" as the password to extract any secret if any from the image. Turns out that was it, using that password, steghide gives us a file called not_a_secret.txt which gives us our final Flag.
 
 ![Extracting Flag](Solution/extracting_password.png)
 
