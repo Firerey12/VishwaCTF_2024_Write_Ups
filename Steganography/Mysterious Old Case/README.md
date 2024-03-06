@@ -39,7 +39,7 @@ We can see there is a google drive link there (https://drive.google.com/file/d/1
 
 ![Drive](Solution/gdrive.png)
 
-Upon trying to extract the zip file, we are prompted for a password. Looking at the clue we got it says the password is the airliner Dan Cooper was flying in. So looking at the [Wikipedia](https://en.wikipedia.org/wiki/D._B._Cooper) page we can find the Airliner that he was flying was a "Boeing 727." Turns out that wasn't the password, so I thought they meant airline instead of airliner, since the audio wasn't much clear. So I tried "northwestorientairlines" which finally worked.
+Upon trying to extract the zip file, we are prompted for a password. Looking at the clue we got it says the password is the airliner Dan Cooper was flying in. So looking at the [Wikipedia](https://en.wikipedia.org/wiki/D._B._Cooper) page we can find the Airliner that he was flying in was a "Boeing 727." Turns out that wasn't the password, so I thought they meant airline instead of airliner, since the audio wasn't much clear. So I tried "northwestorientairlines" which finally worked.
 
 So now we need to find the flag in the files. Looking at the files in the folder we can see there are two different types of files a regular file and a text document file. So I decided to filter it based on file type, and looked at those files. Looking at the second file (I guess the clue about the Fibonacci sequence starting from 2 meant the 2nd file), we can see the flag, although a bit spaced out. 
 
