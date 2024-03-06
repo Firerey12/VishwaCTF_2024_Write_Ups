@@ -40,7 +40,7 @@ Akshay
 
 Considering this is a Steganography challenge, we can assume that something is hidden in the image. Running Binwalk on the image confirms our doubts.
 
-![Binwalk](Solution/binwalk.png):
+![Binwalk](Solution/binwalk.png)
 
 We can see that there is a zip file hidden within the image. After extracting it we get two new files to work with. [5ecr3t_c0de.zip](Solution/5ecr3t_c0de.zip) (password-protected) and [helper.txt](Solution/helper.txt)
 
