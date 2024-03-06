@@ -25,9 +25,6 @@ https://github.com/Firerey12/VishwaCTF_2024_Write_Ups/assets/105744465/e27cced7-
 
 But listening to it we can see that it seems that the audio has been reversed. We can use Audacity to Reverse it again to recover the original audio, which gives us a clue.
 
-![reverse](https://github.com/Firerey12/VishwaCTF_2024_Write_Ups/assets/105744465/6a1c8ecc-c41d-4674-857a-15d4d1b061c3)
-
-
 https://github.com/Firerey12/VishwaCTF_2024_Write_Ups/assets/105744465/5d94ba71-dc59-4abb-b3e8-ba70374afc16
 
 > I am Dan Cooper, it is 24th November, 1971. Now I have left from Seattle and headed towards Reno. I have got all my demands fulfilled. I have done some changes in the flight log and uploaded it to a remote server. The file is ecrypted. The hint for description is the airliner that I was flying in. Most importantly, the secret key is split and hidden in every element of the fibonacci series, starting from two ~ _Some Guy in a CTF challenge_.
