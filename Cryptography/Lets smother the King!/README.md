@@ -18,7 +18,7 @@ Files Provided:
 
 # Solution
 This was a very interesting puzzle as it involved chess, a game which I enjoy but am not the best at. Nevertheless, it was an interesting solve. Looking at the description provided we can see some obvious clues, such as the names look like they could give us much information.
-The description mentions a programming language and a file which is appropriately named code.txt. This tells us that the code.txt is some sort of programming language or an obfuscated code. After a quick Google search of `olmstead programming language` we come across a wikipedia page for [Malbolge](https://en.wikipedia.org/wiki/Malbolge) a very 
+The description mentions a programming language and a file which is appropriately named code.txt. This tells us that the code.txt is some sort of weird programming language code or an obfuscated code. After a quick Google search of `olmstead programming language` we come across a wikipedia page for [Malbolge](https://en.wikipedia.org/wiki/Malbolge) a very 
 difficult looking programming language, but one that looks a lot like our code.txt
 
 [code.txt](Files/code.txt)
